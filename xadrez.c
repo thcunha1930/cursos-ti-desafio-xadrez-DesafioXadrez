@@ -39,12 +39,10 @@ int main() {
 
     printf("\n");
 
-    // ===============================
+    
     // MOVIMENTO DO CAVALO (for + while)
-    // ===============================
-    // O cavalo se move em "L", então ele anda 2 casas em uma direção
-    // e depois 1 casa perpendicular. Aqui ele vai 2 pra baixo e 1 pra esquerda.
-
+    
+    
     int casasBaixo = 2;
     int casasEsquerda = 1;
 
